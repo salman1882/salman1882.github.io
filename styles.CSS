@@ -1,6 +1,4 @@
-h1
-
-{
+h1{
 
 font size: 36px;
 
@@ -12,25 +10,19 @@ padding: 10px;
 
 } 
 
-h2
-
-{
+h2{
 
 font size: 30px;
 
 }
 
-h3 
-
-{ 
+h3 { 
 
 color:white;
 
 }
 
-body
-
-{
+body{
 
 margin: 0px;
 
@@ -46,18 +38,18 @@ text-align: center;
 
 }
 
-.list {
+.list{
 color:#333300
 }
 
 h2 {font-size: 1.2rem; font-weight: bold;}
 
 
-#page
-
-{
+#page{
 
 max-width:800px;
+
+min-height: 800px;
 
 margin: 20px auto;
 
@@ -67,9 +59,7 @@ background-color: #bfa475;
 
 }
 
-#header /* Styles for Heading */
-
-{
+#header{
 
 padding: 5px;
 
@@ -79,17 +69,13 @@ text-align: center;
 
 }
 
-#img
-
-{
+#img{
 
 border: double 20px black;
 
 }
 
-#right-column
-
-{
+#right-column{
 
 float: right;
 
